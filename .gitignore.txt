@@ -1,2 +1,2 @@
 *.doc 
-new.py
+c:/dev/backend_test_homework/new.py
